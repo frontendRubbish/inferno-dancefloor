@@ -1,0 +1,21 @@
+.start {
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    transition: opacity 2.4s;
+    width: 100%;
+    z-index: 6;
+
+    &--hidden {
+      opacity: 0;
+      z-index: -1;
+    }
+
+    &__button {
+      background-color: transparent;
+      border: none;
+      cursor: pointer;
+      display: inline-block;
+      outline: none;
+    }
+  }

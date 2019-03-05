@@ -1,0 +1,12 @@
+.dancefloor {
+  background-color: rgba(230, 230, 230, 1);
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  transition: background-color 1.2s;
+  width: 100%;
+
+  &--dark {
+    background-color: rgba(0,0,0,1);
+  }
+}

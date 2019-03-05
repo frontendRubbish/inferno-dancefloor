@@ -1,0 +1,9 @@
+.spot {
+  bottom: 30px;
+  position:fixed;
+  top: -30px;
+
+  &--hidden {
+    display: none;
+  }
+}
