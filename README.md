@@ -1,2 +1,2 @@
 # inferno-dancefloor
-Just a litte Test to get used to Inferno
+Just a litte test to get used to Inferno
