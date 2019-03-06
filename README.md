@@ -1,2 +1,3 @@
 # inferno-dancefloor
-Just a litte test to get used to Inferno
+
+Just a little test to get used to Inferno. Plain and simple, no devServer, no HMR. 
